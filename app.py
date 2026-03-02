@@ -228,7 +228,9 @@ QUICK = [
     ("A3", "Como funciona a avaliação A3 e quais são as orientações?"),
     ("2ª oportunidade", "Como solicitar a segunda oportunidade e quais prazos e regras se aplicam?"),
     ("A3 online", "A A3 é online ou presencial? Em quais casos a A3 pode ser online?"),
-    ("nota não lançada", "Minha nota ainda não foi lançada. Qual o prazo e o que devo fazer?")
+    ("nota não lançada", "Minha nota ainda não foi lançada. Qual o prazo e o que devo fazer?"),
+    ("Lista de presença", "Qual o endereço para acessar a lista de presença das UCs assíncronas ?"), 
+    ("Modelo de Ata", "Qual o link para acesso do Modelo de Ata Lista? ")
 ]
 
 
