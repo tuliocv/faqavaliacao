@@ -3,3 +3,5 @@ openai
 faiss-cpu
 numpy
 python-docx
+pandas
+filelock
